@@ -1,0 +1,30 @@
+[
+	{
+		"title":["经典游戏克隆","：青蛙过河"],
+		"addr":"https://github.com/CrystalListen/frog-game.git",
+		"type":"project",
+		"describe":["使用JavaScript面对对象开发","游戏场景由HTML5 canvas绘制","玩家通过上下左右四个方向操作角色并需要躲避敌人"],
+		"image":"images/game.png"
+	},
+	{
+		"title":["仿电商网站","：京东商城首页"],
+		"addr":"https://github.com/CrystalListen/jingdong.git",
+		"type":"project",
+		"describe":["采用DIV实现页面布局","使用CSS3实现页面渲染","使用JavaScript和jQuery实现页面动态效果"],
+		"image":"images/jingdong.png"
+	},
+	{
+		"title":["经典游戏克隆","：青蛙过河"],
+		"addr":"https://github.com/CrystalListen/frog-game.git",
+		"type":"tool",
+		"describe":["使用JavaScript面对对象开发","游戏场景由HTML5 canvas绘制","玩家通过上下左右四个方向操作角色并需要躲避敌人"],
+		"image":"images/game.png"
+	},
+	{
+		"title":["仿电商网站","：京东商城首页"],
+		"addr":"https://github.com/CrystalListen/jingdong.git",
+		"type":"tool",
+		"describe":["采用DIV实现页面布局","使用CSS3实现页面渲染","使用JavaScript和jQuery实现页面动态效果"],
+		"image":"images/jingdong.png"
+	}
+]
