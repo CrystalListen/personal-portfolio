@@ -22,13 +22,16 @@ $(window).load(function(){
 		newOl.appendChild(node);
 
 	}
-	/* Wrapper for slides */
-	for(var i=0;i<num;i++){
-		var newDiv = document.createElement('div');
-		newDiv.setAttribute("class","carousel-inner");
-		newDiv.setAttribute("role","listbox");
-		project.appendChild(newDiv);
 
+
+	/* Wrapper for slides */
+
+	var newDiv = document.createElement('div');
+	newDiv.setAttribute("class","carousel-inner");
+	newDiv.setAttribute("role","listbox");
+	project.appendChild(newDiv);
+
+	for(var i=0;i<num;i++){
 		var itemDiv = document.createElement('div');
 		if(i==0)
 		itemDiv.setAttribute("class","item active");
